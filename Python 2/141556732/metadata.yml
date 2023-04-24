@@ -1,0 +1,12 @@
+---
+:id: 141556732
+:submitters:
+- :name: Riddhi Kankaria
+  :email: riddhik@uchicago.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-17 19:38:53.097697000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-17 12:38:53.097697000 Z
+:status: processed
+:score: 98.0

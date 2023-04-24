@@ -1,0 +1,12 @@
+,Sectors,ghg_pct_HI,ghg_pct_LI,ghg_pct_UMI,ghg_pct_LMI
+0,Agriculture,0.07,0.32,0.09,0.19
+1,Land-use change and forestry,-0.04,0.55,-0.02,0.15
+2,Waste,0.03,0.03,0.03,0.04
+3,Industry,0.05,0.02,0.08,0.05
+4,Manufacturing and construction,0.1,0.01,0.17,0.11
+5,Transport,0.24,0.03,0.1,0.1
+6,Electricity and heat,0.33,0.01,0.38,0.23
+7,Buildings,0.09,0.02,0.05,0.05
+8,Fugitive emissions,0.05,0.01,0.08,0.06
+9,Other fuel combustion,0.01,0.0,0.01,0.01
+10,Aviation and shipping,0.06,0.0,0.01,0.01

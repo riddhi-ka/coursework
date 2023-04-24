@@ -1,0 +1,16 @@
+---
+:id: 153166291
+:submitters:
+- :name: Devashri Khadke
+  :email: devashrik@uchicago.edu
+- :name: Riddhi Kankaria
+  :email: riddhik@uchicago.edu
+- :name: Mehar Satsangi
+  :email: mehar@uchicago.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-08 05:50:20.117771000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-07 21:50:20.117771000 Z
+:status: processed
+:score: 94.0

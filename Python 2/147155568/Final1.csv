@@ -1,0 +1,451 @@
+,base,action,mil_out,civ_out,mil_in,civ_in,mil_net,civ_net,net_cont,direct,indirect,total,ea_emp,ch_as_perc,13
+0,Dyess Air Force Base,Dyess Air Force Base,Gain,"(1,615)",(65),"1,925",129,310,64,0,374,358,732,"92,846",0.8%
+1,Employment,Employment,Realign,(10),0,0,0,(10),0,0,(10),(5),(15),"80,981",0.0%
+2,Navy-Marine Corps Reserve Center Akron,Navy-Marine Corps Reserve Center Akron,Close,(26),0,0,0,(26),0,0,(26),(10),(36),"398,976",0.0%
+3,Armed Forces Reserve Center Akron,Armed Forces Reserve Center Akron,Gain,0,0,37,0,37,0,0,37,14,51,"398,976",0.0%
+4,Holloman Air Force Base,Holloman Air Force Base,Realign,(17),0,0,0,(17),0,0,(17),(11),(28),"27,515",-0.1%
+5,Marine Corps Logistics Base Albany,Marine Corps Logistics Base Albany,Gain,(2),(42),1,193,(1),151,0,150,119,269,"79,160",0.3%
+6,Schenectady County Air Guard Station,Schenectady County Air Guard Station,Realign,(10),(9),0,0,(10),(9),0,(19),(19),(38),"529,819",0.0%
+7,"Niven U.S. Army Reserve Center,","Niven U.S. Army Reserve Center,",Close,(34),0,0,5,(34),5,0,(29),(13),(42),"26,102",-0.2%
+8,Jenkins Armed Forces Reserve Center Albuquerque,Jenkins Armed Forces Reserve Center Albuquerque,Close,(35),(1),0,0,(35),(1),0,(36),(29),(65),"454,397",0.0%
+9,Kirtland Air Force Base,Kirtland Air Force Base,Gain,(7),0,37,176,30,176,0,206,206,412,"454,397",0.1%
+10,Navy-Marine Corps Reserve Center Lehigh,Navy-Marine Corps Reserve Center Lehigh,Gain,0,0,8,0,8,0,0,8,3,11,"396,091",0.0%
+11,Altus Air Force Base,Altus Air Force Base,Realign,(16),0,0,0,(16),0,0,(16),(10),(26),"16,463",-0.2%
+12,Kulis Air Guard Station,Kulis Air Guard Station,Close,(218),(241),0,0,(218),(241),0,(459),(377),(836),"211,967",-0.4%
+13,Elmendorf Air Force Base,Elmendorf Air Force Base,Realign,"(1,499)",(65),397,233,"(1,102)",168,0,(934),(643),"(1,577)","211,967",-0.7%
+14,Fort Richardson,Fort Richardson,Realign,(86),(199),0,0,(86),(199),(1),(286),(244),(530),"211,967",-0.3%
+15,Anniston Army Depot,Anniston Army Depot,Gain,0,(87),0,"1,121",0,"1,034",0,"1,034",766,"1,800","60,648",3.0%
+16,Defense Finance and Accounting,Defense Finance and Accounting,Close,0,(241),0,0,0,(241),0,(241),(149),(390),"41,134",-0.9%
+17,Navy Reserve Center Asheville,Navy Reserve Center Asheville,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"217,211",0.0%
+18,Naval Supply Corps School Athens,Naval Supply Corps School Athens,Close,(393),(108),4,0,(389),(108),(16),(513),(317),(830),"96,829",-0.9%
+19,Fort Gillem,Fort Gillem,Close,(517),(570),6,0,(511),(570),0,"(1,081)",(734),"(1,815)","2,777,548",-0.1%
+20,Fort McPherson,Fort McPherson,Close,"(2,260)","(1,881)",0,0,"(2,260)","(1,881)",0,"(4,141)","(2,705)","(6,846)","2,777,548",-0.2%
+21,Naval Air Station Atlanta,Naval Air Station Atlanta,Close,"(1,274)",(156),0,0,"(1,274)",(156),(68),"(1,498)",(807),"(2,305)","2,777,548",-0.1%
+22,Peachtree Leases Atlanta,Peachtree Leases Atlanta,Close,(65),(97),0,0,(65),(97),0,(162),(114),(276),"2,777,548",0.0%
+23,Dobbins Air Reserve Base,Dobbins Air Reserve Base,Gain,0,0,73,45,73,45,0,118,74,192,"2,777,548",0.0%
+24,Atlantic City International Airport Air Guard Station,Atlantic City International Airport Air Guard Station,Gain,(3),(53),62,263,59,210,0,269,207,476,"175,797",0.3%
+25,Edwards Air Force Base,Edwards Air Force Base,Gain,(14),0,23,42,9,42,0,51,62,113,"325,440",0.0%
+26,Naval Air Weapons Station China Lake,Naval Air Weapons Station China Lake,Gain,(44),(14),198,"2,329",154,"2,315",0,"2,469","3,129","5,598","325,440",1.7%
+27,Leased Space - MD,Leased Space - MD,Close/Realign,(3),(121),0,0,(3),(121),0,(124),(118),(242),"1,568,140",0.0%
+28,Aberdeen Proving Ground,Aberdeen Proving Ground,Gain,"(3,862)",(290),451,"5,661","(3,411)","5,371",216,"2,176","2,814","4,990","1,568,140",0.3%
+29,Fort Meade,Fort Meade,Gain,(2),0,684,"2,915",682,"2,915","1,764","5,361","4,875","10,236","1,568,140",0.7%
+30,Martin State Airport Air Guard,Martin State Airport Air Guard,Realign,(17),(106),0,0,(17),(106),0,(123),(114),(237),"1,568,140",0.0%
+31,"17) (106) 0 0 (17) (106) 0 (123) (114) (237) 1,568,140 0.0% Station Naval Station Annapolis", Station Naval Station Annapolis,Realign,0,(13),0,0,0,(13),0,(13),(12),(25),"1,568,140",0.0%
+32,"Naval Reserve Center, Bangor","Naval Reserve Center, Bangor",Close,(7),0,0,0,(7),0,0,(7),(2),(9),"92,291",0.0%
+33,Bangor International Airport Air Guard Station,Bangor International Airport Air Guard Station,Gain,0,0,45,195,45,195,0,240,173,413,"92,291",0.4%
+34,Otis Air Guard Base,Otis Air Guard Base,Close,(62),(443),0,0,(62),(443),0,(505),(322),(827),"137,499",-0.6%
+35,Baton Rouge Army National Guard Reserve Center,Baton Rouge Army National Guard Reserve Center,Close,(128),0,11,0,(117),0,0,(117),(57),(174),"411,691",0.0%
+36,Navy-Marine Corps Reserve Center Baton Rouge,Navy-Marine Corps Reserve Center Baton Rouge,Close,(18),0,0,0,(18),0,0,(18),(8),(26),"411,691",0.0%
+37,"Roberts U.S. Army Reserve Center, Baton Rouge","Roberts U.S. Army Reserve Center, Baton Rouge",Close,(30),0,0,0,(30),0,0,(30),(14),(44),"411,691",0.0%
+38,W. K. Kellogg Airport Air Guard Station,W. K. Kellogg Airport Air Guard Station,Close,(68),(206),0,0,(68),(206),0,(274),(166),(440),"74,652",-0.6%
+39,"Navy Reserve Center Orange,TX","Navy Reserve Center Orange,TX",Close,(11),0,0,0,(11),0,0,(11),(6),(17),"193,048",0.0%
+40,PFC Flair U.S. Army Reserve,PFC Flair U.S. Army Reserve,Close,(20),(2),0,0,(20),(2),0,(22),(15),(37),"727,010",0.0%
+41,"20) (2) 0 0 (20) (2) 0 (22) (15) (37) 727,010 0.0% Center, Frederick Fort Detrick"," Center, Frederick Fort Detrick",Gain,0,0,76,43,76,43,(15),104,81,185,"727,010",0.0%
+42,National Naval Medical Center Bethesda,National Naval Medical Center Bethesda,Gain,0,0,982,936,982,936,(29),"1,889","1,529","3,418","727,010",0.5%
+43,Naval Surface Weapons Station Carderock,Naval Surface Weapons Station Carderock,Gain,0,0,0,6,0,6,0,6,5,11,"727,010",0.0%
+44,"Army Research Laboratory, Adelphi","Army Research Laboratory, Adelphi",Realign,0,(43),0,0,0,(43),0,(43),(39),(82),"727,010",0.0%
+45,I-270 Corridor,I-270 Corridor,Realign,(16),(35),0,0,(16),(35),0,(51),(38),(89),"727,010",0.0%
+46,Fort Hanna Army National Guard Reserve Center Birmingham,Fort Hanna Army National Guard Reserve Center Birmingham,Close,(28),0,0,0,(28),0,0,(28),(12),(40),"622,605",0.0%
+47,Birmingham Armed Forces Reserve Center,Birmingham Armed Forces Reserve Center,Realign,(146),(159),0,0,(146),(159),0,(305),(193),(498),"622,605",-0.1%
+48,Birmingham International Airport Air Guard Station,Birmingham International Airport Air Guard Station,Realign,(66),(117),0,0,(66),(117),0,(183),(124),(307),"622,605",0.0%
+49,U.S. Army Reserve Center Bloomsburg,U.S. Army Reserve Center Bloomsburg,Close,(20),(2),0,0,(20),(2),0,(22),(12),(34),"49,836",-0.1%
+50,Boise Air Terminal Air Guard Station,Boise Air Terminal Air Guard Station,Realign,(22),(62),0,1,(22),(61),0,(83),(73),(156),"314,811",0.0%
+51,Naval Shipyard Puget Sound-,Naval Shipyard Puget Sound-,Realign,0,(108),0,0,0,(108),0,(108),(105),(213),"1,343,997",0.0%
+52,Human Resources Support Center Northwest,Human Resources Support Center Northwest,Gain,0,0,0,23,0,23,0,23,24,47,"119,170",0.0%
+53,Naval Station Bremerton,Naval Station Bremerton,Gain,0,0,0,"1,401",0,"1,401",0,"1,401","1,475","2,876","119,170",2.4%
+54,Submarine Base Bangor,Submarine Base Bangor,Realign,0,(1),0,0,0,(1),0,(1),(1),(2),"119,170",0.0%
+55,"Turner U.S. Army Reserve Center, Fairfield","Turner U.S. Army Reserve Center, Fairfield",Close,(13),(4),0,0,(13),(4),0,(17),(10),(27),"578,009",0.0%
+56,Army National Guard Reserve Center Niagara Falls,Army National Guard Reserve Center Niagara Falls,Close,(1),0,0,0,(1),0,0,(1),0,(1),"643,318",0.0%
+57,Navy Recruiting District Headquarters Buffalo,Navy Recruiting District Headquarters Buffalo,Close,(25),(6),0,0,(25),(6),(6),(37),(16),(53),"643,318",0.0%
+58,Niagara Falls International Airport Air Guard Station,Niagara Falls International Airport Air Guard Station,Close,(115),(527),0,0,(115),(527),0,(642),(430),"(1,072)","643,318",-0.2%
+59,Burlington International Airport Air Guard Station,Burlington International Airport Air Guard Station,Gain,0,0,3,53,3,53,0,56,39,95,"145,790",0.1%
+60,Malony U.S. Army Reserve Center,Malony U.S. Army Reserve Center,Close,(100),(55),0,0,(100),(55),0,(155),(87),(242),"1,054,892",0.0%
+61,Hanscom Air Force Base,Hanscom Air Force Base,Gain,(47),(223),546,828,499,605,0,"1,104",662,"1,766","1,054,892",0.2%
+62,Natick Soldier Systems Center,Natick Soldier Systems Center,Realign,0,(19),0,0,0,(19),0,(19),(12),(31),"1,054,892",0.0%
+63,SFC Nelson V. Brittin U.S. Army,SFC Nelson V. Brittin U.S. Army,Close,(34),(1),0,0,(34),(1),0,(35),(29),(64),"619,919",0.0%
+64,"34) (1) 0 0 (34) (1) 0 (35) (29) (64) 619,919 0.0% Reserve Center Fort Dix", Reserve Center Fort Dix,Gain,0,0,209,144,209,144,0,353,326,679,"619,919",0.1%
+65,McGuire Air Force Base,McGuire Air Force Base,Gain,0,0,498,37,498,37,0,535,450,985,"619,919",0.2%
+66,Navy Reserve Center Cape Girardeau,Navy Reserve Center Cape Girardeau,Close,(7),0,0,0,(7),0,0,(7),(1),(8),"59,473",0.0%
+67,Armed Forces Reserve Center Carbondale,Armed Forces Reserve Center Carbondale,Close,(32),0,0,0,(32),0,0,(32),(17),(49),"38,275",-0.1%
+68,Navy Reserve Center Cedar Rapds,Navy Reserve Center Cedar Rapds,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"162,044",0.0%
+69,Letterkenny Army Depot,Letterkenny Army Depot,Gain,0,0,0,409,0,409,0,409,223,632,"65,783",1.0%
+70,Yeager Airport Air Guard Station,Yeager Airport Air Guard Station,Realign,(27),(129),0,0,(27),(129),0,(156),(89),(245),"176,245",-0.1%
+71,"Defense Finance and Accounting Service, Charleston","Defense Finance and Accounting Service, Charleston",Close,0,(368),0,0,0,(368),0,(368),(607),(975),"331,580",-0.3%
+72,South Naval Facilities Engineering Command,South Naval Facilities Engineering Command,Close,(6),(492),0,0,(6),(492),(45),(543),(890),"(1,433)","331,580",-0.4%
+73,Naval Weapons Station Charleston,Naval Weapons Station Charleston,Realign,(170),(149),45,24,(125),(125),0,(250),(379),(629),"331,580",-0.2%
+74,Charlotte/Douglas International Airport,Charlotte/Douglas International Airport,Gain,0,0,6,0,6,0,0,6,2,8,"936,991",0.0%
+75,Army Aviation Support Facility Cheyenne,Army Aviation Support Facility Cheyenne,Close,(23),0,0,0,(23),0,0,(23),(10),(33),"55,849",-0.1%
+76,Cheyenne Airport Air Guard Station,Cheyenne Airport Air Guard Station,Gain,0,0,21,58,21,58,0,79,48,127,"55,849",0.2%
+77,Navy Reserve Center Forest Park,Navy Reserve Center Forest Park,Close,(15),0,0,0,(15),0,0,(15),(4),(19),"4,607,077",0.0%
+78,Fort Campbell,Fort Campbell,Realign,(433),0,73,9,(360),9,0,(351),(252),(603),"128,456",-0.5%
+79,Navy-Marine Corps Reserve Center Cleveland,Navy-Marine Corps Reserve Center Cleveland,Close,(24),(1),0,0,(24),(1),0,(25),(8),(33),"1,301,423",0.0%
+80,"Defense Finance and Accounting Service, Cleveland","Defense Finance and Accounting Service, Cleveland",Realign,(15),"(1,013)",0,0,(15),"(1,013)",0,"(1,028)",(847),"(1,875)","1,301,423",-0.1%
+81,Cannon Air Force Base,Cannon Air Force Base,Close,"(2,385)",(384),0,0,"(2,385)",(384),(55),"(2,824)","(1,955)","(4,779)","23,348",-20.5%
+82,Leased Space - CO,Leased Space - CO,Close/Realign,0,(11),0,0,0,(11),0,(11),(11),(22),"349,783",0.0%
+83,Fort Carson,Fort Carson,Gain,0,0,"4,178",199,"4,178",199,0,"4,377","3,310","7,687","349,783",2.2%
+84,Peterson Air Force Base,Peterson Air Force Base,Gain,0,(27),482,19,482,(8),36,510,375,885,"349,783",0.3%
+85,Schriever Air Force Base,Schriever Air Force Base,Gain,0,0,44,51,44,51,0,95,85,180,"349,783",0.1%
+86,United States Air Force Academy,United States Air Force Academy,Realign,(30),(9),0,0,(30),(9),(1),(40),(32),(72),"349,783",0.0%
+87,Fort Jackson,Fort Jackson,Gain,0,0,435,180,435,180,0,615,368,983,"418,871",0.2%
+88,McEntire Air Guard Station,McEntire Air Guard Station,Gain,0,0,418,8,418,8,0,426,260,686,"418,871",0.2%
+89,U.S. Army Reserve Center Columbus,U.S. Army Reserve Center Columbus,Close,(9),0,0,0,(9),0,0,(9),(5),(14),"163,565",0.0%
+90,Fort Benning,Fort Benning,Gain,(842),(69),"10,063",687,"9,221",618,0,"9,839","4,003","13,842","163,565",8.5%
+91,Columbus Air Force Base,Columbus Air Force Base,Gain,0,0,104,3,104,3,0,107,70,177,"34,053",0.5%
+92,Army National Guard Reserve,Army National Guard Reserve,Close,(31),0,0,0,(31),0,0,(31),(16),(47),"22,545",-0.2%
+93,Army National Guard Reserve Center Westerville,Army National Guard Reserve Center Westerville,Close,(12),0,0,0,(12),0,0,(12),(4),(16),"1,122,033",0.0%
+94,U.S. Army Reserve Center Whitehall,U.S. Army Reserve Center Whitehall,Close,(25),0,0,0,(25),0,0,(25),(9),(34),"1,122,033",0.0%
+95,Leased Space - OH,Leased Space - OH,Close/Realign,0,(187),0,0,0,(187),0,(187),(153),(340),"1,122,033",0.0%
+96,Defense Supply Center Columbus,Defense Supply Center Columbus,Gain,(2),(960),65,"2,655",63,"1,695",0,"1,758","1,412","3,170","1,122,033",0.3%
+97,Rickenbacker International Airport Air Guard Station,Rickenbacker International Airport Air Guard Station,Gain,0,0,0,1,0,1,0,1,0,1,"1,122,033",0.0%
+98,Rickenbacker Army National Guard Bldg 943 Columbus,Rickenbacker Army National Guard Bldg 943 Columbus,Realign,(4),0,0,0,(4),0,0,(4),(1),(5),"1,122,033",0.0%
+99,Naval Station Ingleside,Naval Station Ingleside,Close,"(1,901)",(260),0,0,"(1,901)",(260),(57),"(2,218)","(2,582)","(4,800)","221,376",-2.2%
+100,Corpus Christi Army Depot,Corpus Christi Army Depot,Realign,0,(92),0,0,0,(92),0,(92),(132),(224),"221,376",-0.1%
+101,Naval Air Station Corpus Christi,Naval Air Station Corpus Christi,Realign,(926),(89),0,0,(926),(89),(10),"(1,025)","(1,183)","(2,208)","221,376",-1.0%
+102,Army National Guard Reserve Center # 2 Dallas,Army National Guard Reserve Center # 2 Dallas,Close,(90),0,0,0,(90),0,0,(90),(48),(138),"2,410,769",0.0%
+103,Army National Guard Reserve Center California Crossing,Army National Guard Reserve Center California Crossing,Close,(47),0,0,0,(47),0,0,(47),(25),(72),"2,410,769",0.0%
+104,Rock Island Arsenal,Rock Island Arsenal,Realign,(3),"(1,537)",157,120,154,"(1,417)",0,"(1,263)","(1,171)","(2,434)","229,053",-1.1%
+105,Defense Finance and Accounting,Defense Finance and Accounting,Close,0,(230),0,0,0,(230),0,(230),(194),(424),"512,393",-0.1%
+106," (230) 0 0 0 (230) 0 (230) (194) (424) 512,393 -0.1% Service, Dayton Wright Patterson Air Force Base"," Service, Dayton Wright Patterson Air Force Base",Gain,(69),(729),658,559,589,(170),75,494,376,870,"512,393",0.2%
+107,Glenn Research Center,Glenn Research Center,Realign,0,(50),0,0,0,(50),0,(50),(42),(92),"512,393",0.0%
+108,Laughlin Air Force Base,Laughlin Air Force Base,Gain,0,0,102,80,102,80,0,182,137,319,"21,096",1.5%
+109,Buckley Air Force Base,Buckley Air Force Base,Gain,0,0,13,81,13,81,0,94,78,172,"1,545,580",0.0%
+110,Air Reserve Personnel Center,Air Reserve Personnel Center,Realign,(159),"(1,447)",57,"1,500",(102),53,(59),(108),(54),(162),"1,545,580",0.0%
+111,Des Moines International Airport Air Guard Station,Des Moines International Airport Air Guard Station,Gain,(31),(172),54,196,23,24,0,47,27,74,"362,215",0.0%
+112,Armed Forces Reserve Center Camp Dodge,Armed Forces Reserve Center Camp Dodge,Realign,(217),(1),0,0,(217),(1),0,(218),(84),(302),"362,215",-0.1%
+113,Detroit Arsenal,Detroit Arsenal,Gain,(4),(104),4,751,0,647,0,647,407,"1,054","994,108",0.1%
+114,Dover Air Force Base,Dover Air Force Base,Gain,0,0,115,133,115,133,0,248,254,502,"74,718",0.7%
+115,Navy-Marine Corps Reserve,Navy-Marine Corps Reserve,Close,(19),(5),0,0,(19),(5),0,(24),(8),(32),"62,005",-0.1%
+116,Navy Reserve Center Duluth,Navy Reserve Center Duluth,Close,(8),0,0,0,(8),0,0,(8),(2),(10),"157,359",0.0%
+117,"Army Research Office, Durham","Army Research Office, Durham",Realign,(1),(113),0,0,(1),(113),0,(114),(67),(181),"319,576",-0.1%
+118,Fort Monmouth,Fort Monmouth,Close,(620),"(4,652)",0,0,(620),"(4,652)",0,"(5,272)","(4,465)","(9,737)","1,220,335",-0.8%
+119,"Kilmer U.S. Army Reserve Center, Edison","Kilmer U.S. Army Reserve Center, Edison",Close,(23),(21),0,0,(23),(21),0,(44),(31),(75),"1,220,335",0.0%
+120,Naval Air Engineering Station Lakehurst,Naval Air Engineering Station Lakehurst,Realign,(132),(54),0,0,(132),(54),0,(186),(123),(309),"1,220,335",0.0%
+121,Naval Weapons Station Earle,Naval Weapons Station Earle,Realign,0,(63),2,0,2,(63),0,(61),(54),(115),"1,220,335",0.0%
+122,El Dorado Armed Forces Reserve Center,El Dorado Armed Forces Reserve Center,Close,(24),0,0,0,(24),0,0,(24),(12),(36),"29,093",-0.1%
+123,Army National Guard Reserve,Army National Guard Reserve,Close,(106),0,0,0,(106),0,0,(106),(81),(187),"328,741",-0.1%
+124,"106) 0 0 0 (106) 0 0 (106) (81) (187) 328,741 -0.1% Center (Hondo Pass) El Paso Fort Bliss", Center (Hondo Pass) El Paso Fort Bliss,Gain,"(4,564)",(223),"15,918",370,"11,354",147,0,"11,501","8,882","20,383","328,741",6.2%
+125,Fort Knox,Fort Knox,Realign,"(10,159)",(772),"5,292","2,511","(4,867)","1,739",184,"(2,944)",8,"(2,936)","65,926",-4.5%
+126,Navy Reserve Center Horsehead,Navy Reserve Center Horsehead,Close,(7),0,0,0,(7),0,0,(7),(6),(13),"50,494",0.0%
+127,Vance Air Force Base,Vance Air Force Base,Gain,0,0,93,6,93,6,0,99,94,193,"34,406",0.6%
+128,Gary U.S. Army Reserve Center Enterprize,Gary U.S. Army Reserve Center Enterprize,Close,(9),(1),0,0,(9),(1),0,(10),(8),(18),"48,094",0.0%
+129,Fort Rucker,Fort Rucker,Gain,(423),(80),"2,157",234,"1,734",154,0,"1,888","1,689","3,577","48,094",7.4%
+130,Navy Reserve Center Evansville,Navy Reserve Center Evansville,Close,(7),0,0,0,(7),0,0,(7),(1),(8),"212,719",0.0%
+131,Eielson Air Force Base,Eielson Air Force Base,Realign,"(2,821)",(319),0,0,"(2,821)",(319),200,"(2,940)","(1,770)","(4,710)","54,469",-8.6%
+132,Fairmont U.S. Army Reserve,Fairmont U.S. Army Reserve,Close,(88),0,0,0,(88),0,0,(88),(47),(135),"26,404",-0.5%
+133,Naval Air Station Fallon,Naval Air Station Fallon,Realign,(7),0,0,0,(7),0,0,(7),(5),(12),"15,858",-0.1%
+134,Fort Bragg,Fort Bragg,Gain,"(1,352)",0,"5,430",247,"4,078",247,0,"4,325","2,915","7,240","195,370",3.7%
+135,Pope Air Force Base,Pope Air Force Base,Realign,"(5,969)",(345),"1,148","1,153","(4,821)",808,(132),"(4,145)","(2,657)","(6,802)","195,370",-3.5%
+136,Fort Leonard Wood,Fort Leonard Wood,Realign,(181),(2),71,25,(110),23,0,(87),(14),(101),"25,515",-0.4%
+137,Fort Smith Regional,Fort Smith Regional,Realign,(19),(59),0,0,(19),(59),0,(78),(56),(134),"152,388",-0.1%
+138,Eglin Air Force Base,Eglin Air Force Base,Gain,(28),(42),"2,168",120,"2,140",78,0,"2,218","1,834","4,052","120,139",3.4%
+139,Hurlburt Field,Hurlburt Field,Realign,(48),(6),0,0,(48),(6),0,(54),(44),(98),"120,139",-0.1%
+140,Fort Wayne International Airport,Fort Wayne International Airport,Gain,(5),0,62,256,57,256,0,313,173,486,"256,503",0.2%
+141,"Carswell ARS, Naval Air Station Fo","Carswell ARS, Naval Air Station Fo",Gain,0,(12),8,116,8,104,0,112,116,228,"1,004,416",0.0%
+142,Naval Air Station Joint Reserve Base Ft. Worth,Naval Air Station Joint Reserve Base Ft. Worth,Gain,(54),(5),330,41,276,36,2,314,197,511,"1,004,416",0.1%
+143,Fresno Air Terminal,Fresno Air Terminal,Gain,0,0,57,254,57,254,0,311,207,518,"427,912",0.1%
+144,Navy Reserve Center Glenn Falls,Navy Reserve Center Glenn Falls,Close,(7),0,0,0,(7),0,0,(7),(1),(8),"64,173",0.0%
+145,Seymore Johnson Air Force Base,Seymore Johnson Air Force Base,Gain,0,0,345,17,345,17,0,362,301,663,"60,040",1.1%
+146,Grand Forks Air Force Base,Grand Forks Air Force Base,Realign,"(2,290)",(355),0,0,"(2,290)",(355),0,"(2,645)","(2,284)","(4,929)","66,242",-7.4%
+147,Army National Guard Reserve,Army National Guard Reserve,Close,(31),0,0,0,(31),0,0,(31),(16),(47),"45,763",-0.1%
+148,"Galt Hall U.S. Army Reserve Center, Great Falls","Galt Hall U.S. Army Reserve Center, Great Falls",Close,(14),(3),0,0,(14),(3),0,(17),(9),(26),"49,197",-0.1%
+149,Great Falls International Airport Air Guard Station,Great Falls International Airport Air Guard Station,Realign,(26),(81),0,0,(26),(81),0,(107),(66),(173),"49,197",-0.4%
+150,Andersen Air Force Base,Andersen Air Force Base,Realign,(64),(31),0,0,(64),(31),0,(95),(79),(174),"54,980",-0.3%
+151,Human Resources Support Center Southeast,Human Resources Support Center Southeast,Realign,0,(138),0,0,0,(138),(10),(148),(131),(279),"151,445",-0.2%
+152,Keesler Air Force Base,Keesler Air Force Base,Realign,(181),(31),0,0,(181),(31),(190),(402),(248),(650),"151,445",-0.4%
+153,Ewvra Sheppard Air Guard Station,Ewvra Sheppard Air Guard Station,Gain,0,0,7,3,7,3,0,10,7,17,"116,091",0.0%
+154,Naval Air Station Lemore,Naval Air Station Lemore,Gain,(39),0,44,35,5,35,0,40,32,72,"53,641",0.1%
+155,Parrott U.S. Army Reserve,Parrott U.S. Army Reserve,Close,(9),(1),0,0,(9),(1),0,(10),(5),(15),"13,264",-0.1%
+156,Defense Distribution Depot Susquehanna,Defense Distribution Depot Susquehanna,Realign,0,(15),0,0,0,(15),0,(15),(13),(28),"384,888",0.0%
+157,Naval Support Activity Mechanicsburg,Naval Support Activity Mechanicsburg,Realign,0,(11),0,0,0,(11),0,(11),(10),(21),"384,888",0.0%
+158,U.S. Army Reserve Center Area Maintenance Support Facility,U.S. Army Reserve Center Area Maintenance Support Facility,Close,(13),(5),0,0,(13),(5),0,(18),(8),(26),"760,935",0.0%
+159,Bradley International Airport Air Guard Station,Bradley International Airport Air Guard Station,Realign,(23),(88),26,15,3,(73),0,(70),(54),(124),"760,935",0.0%
+160,Marine Corps Air Station Beaufort,Marine Corps Air Station Beaufort,Gain,0,0,0,12,0,12,0,12,9,21,"93,051",0.0%
+161,Naval Station Pearl Harbor,Naval Station Pearl Harbor,Gain,(29),(213),0,324,(29),111,0,82,89,171,"573,389",0.0%
+162,Hickam Air Force Base,Hickam Air Force Base,Realign,(311),(117),159,7,(152),(110),0,(262),(224),(486),"573,389",-0.1%
+163,Army National Guard Reserve,Army National Guard Reserve,Close,(19),0,0,0,(19),0,0,(19),(10),(29),"3,204",-0.9%
+164,Army National Guard Reserve Center Ellington,Army National Guard Reserve Center Ellington,Close,(14),(45),0,0,(14),(45),0,(59),(41),(100),"2,898,160",0.0%
+165,U.S. Army Reserve Center # 2 Houston,U.S. Army Reserve Center # 2 Houston,Close,(2),0,0,0,(2),0,0,(2),0,(2),"2,898,160",0.0%
+166,Ellington Field Air Guard Station,Ellington Field Air Guard Station,Realign,0,(3),0,0,0,(3),0,(3),(2),(5),"2,898,160",0.0%
+167,"Bias U.S. Army Reserve Center, Huntington","Bias U.S. Army Reserve Center, Huntington",Close,(1),0,0,0,(1),0,0,(1),0,(1),"139,908",0.0%
+168,Redstone Arsenal,Redstone Arsenal,Gain,"(1,322)",(288),336,"1,874",(986),"1,586","1,055","1,655","1,289","2,944","225,625",1.3%
+169,Navy Recruiting District Headquarters Indianapolis,Navy Recruiting District Headquarters Indianapolis,Close,(27),(5),0,0,(27),(5),(6),(38),(15),(53),"1,037,290",0.0%
+170,U.S. Army Reserve Center Seston,U.S. Army Reserve Center Seston,Close,(12),0,0,0,(12),0,0,(12),(4),(16),"1,037,290",0.0%
+171,Leased Space - IN,Leased Space - IN,Close/Realign,(25),(111),0,0,(25),(111),0,(136),(89),(225),"1,037,290",0.0%
+172,"Defense Finance and Accounting Service, Indianapolis","Defense Finance and Accounting Service, Indianapolis",Gain,0,(100),114,"3,478",114,"3,378",3,"3,495","2,490","5,985","1,037,290",0.6%
+173,Jackson International Airport Air Guard Station,Jackson International Airport Air Guard Station,Gain,0,0,0,1,0,1,0,1,0,1,"307,475",0.0%
+174,Jacksonville International Airport,Jacksonville International Airport,Gain,0,(6),45,22,45,16,0,61,74,135,"727,765",0.0%
+175," (6) 45 22 45 16 0 61 74 135 727,765 0.0% Air Guard Station Naval Air Station Jacksonville", Air Guard Station Naval Air Station Jacksonville,Gain,(72),(245),"1,974",310,"1,902",65,58,"2,025","2,370","4,395","727,765",0.6%
+176,Naval Station Mayport,Naval Station Mayport,Gain,(6),0,403,13,397,13,0,410,480,890,"727,765",0.1%
+177,Marine Corps Base Camp Lejeune,Marine Corps Base Camp Lejeune,Realign,(182),(16),0,15,(182),(1),(9),(192),(109),(301),"91,677",-0.3%
+178,Army National Guard Reserve Center Tishomingo,Army National Guard Reserve Center Tishomingo,Close,(30),0,0,0,(30),0,0,(30),(16),(46),"4,603",-1.0%
+179,Marine Corps Reserve Center Johnstown,Marine Corps Reserve Center Johnstown,Realign,(86),0,0,0,(86),0,0,(86),(52),(138),"74,442",-0.2%
+180,"Defense Finance and Accounting Service, Kansas City","Defense Finance and Accounting Service, Kansas City",Close,(37),(576),0,0,(37),(576),0,(613),(549),"(1,162)","1,225,451",-0.1%
+181,Marine Corps Support Center Kansas City,Marine Corps Support Center Kansas City,Close,(191),(139),0,0,(191),(139),(3),(333),(250),(583),"1,225,451",0.0%
+182,Navy Recruiting District Headquarters Kansas,Navy Recruiting District Headquarters Kansas,Close,(21),(6),0,0,(21),(6),(6),(33),(23),(56),"1,225,451",0.0%
+183,Fort Leavenworth,Fort Leavenworth,Gain,(16),0,211,8,195,8,0,203,131,334,"1,225,451",0.0%
+184,Army National Guard Reserve Center Honokaa,Army National Guard Reserve Center Honokaa,Close,(118),0,0,0,(118),0,0,(118),(100),(218),"37,731",-0.6%
+185,Army National Guard Reserve,Army National Guard Reserve,Close,(8),0,0,0,(8),0,0,(8),(4),(12),"35,434",0.0%
+186,Fort Hood,Fort Hood,Realign,"(9,135)",(118),"9,062",0,(73),(118),0,(191),(163),(354),"186,916",-0.2%
+187,Naval Surface Warfare Center Dahlgren,Naval Surface Warfare Center Dahlgren,Realign,0,(503),0,169,0,(334),(17),(351),(424),(775),"14,171",-5.5%
+188,U.S. Army Reserve Area Maintenance Support Facility,U.S. Army Reserve Area Maintenance Support Facility,Close,(30),(2),0,0,(30),(2),0,(32),(7),(39),"161,187",0.0%
+189,McGee Tyson APT Air Guard Station,McGee Tyson APT Air Guard Station,Gain,0,0,58,190,58,190,0,248,245,493,"402,476",0.1%
+190,Navy Reserve Center La Crosse,Navy Reserve Center La Crosse,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"89,588",0.0%
+191,U.S. Army Reserve Center Lafeyette,U.S. Army Reserve Center Lafeyette,Close,(21),0,0,0,(21),0,0,(21),(11),(32),"112,699",0.0%
+192,Fort Sheridan,Fort Sheridan,Realign,(17),(17),0,0,(17),(17),0,(34),(53),(87),"498,103",0.0%
+193,Naval Station Great Lakes,Naval Station Great Lakes,Realign,"(2,005)",(124),16,101,"(1,989)",(23),(10),"(2,022)","(2,577)","(4,599)","498,103",-0.9%
+194,Parisan U.S. Army Reserve,Parisan U.S. Army Reserve,Close,(25),0,0,0,(25),0,0,(25),(11),(36),"281,040",0.0%
+195,White Sands Missile Range,White Sands Missile Range,Realign,(13),(165),0,0,(13),(165),0,(178),(190),(368),"79,256",-0.5%
+196,Nellis Air Force Base,Nellis Air Force Base,Gain,(265),(5),"1,414",268,"1,149",263,0,"1,412",959,"2,371","890,855",0.3%
+197,Fort Sill,Fort Sill,Gain,(892),(176),"4,336",337,"3,444",161,(3),"3,602","2,129","5,731","63,978",9.0%
+198,U.S. Army Reserve Center Lewisburg,U.S. Army Reserve Center Lewisburg,Close,(9),(2),0,0,(9),(2),0,(11),(6),(17),"22,716",-0.1%
+199,Defense Finance and Accounting,Defense Finance and Accounting,Close,0,(53),0,0,0,(53),0,(53),(70),(123),"53,347",-0.2%
+200," (53) 0 0 0 (53) 0 (53) (70) (123) 53,347 -0.2% Service, Patuxent River Naval Air Station Patuxent River"," Service, Patuxent River Naval Air Station Patuxent River",Gain,(10),(142),7,226,(3),84,6,87,114,201,"53,347",0.4%
+201,Fort Lewis,Fort Lewis,Realign,0,(164),0,0,0,(164),0,(164),(217),(381),"53,347",-0.7%
+202,"Defense Finance and Accounting Service, Lexington","Defense Finance and Accounting Service, Lexington",Close,(5),(40),0,0,(5),(40),0,(45),(27),(72),"296,523",0.0%
+203,Navy Reserve Center Lexington,Navy Reserve Center Lexington,Close,(9),0,0,0,(9),0,0,(9),(2),(11),"296,523",0.0%
+204,Navy Reserve Center Lincoln,Navy Reserve Center Lincoln,Close,(7),0,0,0,(7),0,0,(7),(3),(10),"198,773",0.0%
+205,Little Rock Air Force Base,Little Rock Air Force Base,Gain,(16),0,"3,595",319,"3,579",319,0,"3,898","2,958","6,856","394,114",1.7%
+206,Camp Pike (90th),Camp Pike (90th),Realign,(86),(91),0,0,(86),(91),0,(177),(158),(335),"394,114",-0.1%
+207,Armed Forces Reserve Center Bell,Armed Forces Reserve Center Bell,Close,(72),0,48,0,(24),0,0,(24),(11),(35),"5,554,695",0.0%
+208,"Navy-Marine Corps Reserve Center, Encino","Navy-Marine Corps Reserve Center, Encino",Close,(33),0,0,0,(33),0,0,(33),(15),(48),"5,554,695",0.0%
+209,"Navy-Marine Corps Reserve Center, Los Angeles","Navy-Marine Corps Reserve Center, Los Angeles",Close,(48),0,0,0,(48),0,0,(48),(22),(70),"5,554,695",0.0%
+210,Leased Space - CA,Leased Space - CA,Close/Realign,(2),(14),0,0,(2),(14),0,(16),(13),(29),"5,554,695",0.0%
+211,Marine Corps Reserve Center Pasadena CA,Marine Corps Reserve Center Pasadena CA,Gain,0,0,25,0,25,0,0,25,11,36,"5,554,695",0.0%
+212,U.S. Army Reserve Center Louisville,U.S. Army Reserve Center Louisville,Close,(30),(13),0,0,(30),(13),0,(43),(22),(65),"728,101",0.0%
+213,Louisville International Airport Air Guard Station,Louisville International Airport Air Guard Station,Gain,0,0,0,6,0,6,0,6,4,10,"728,101",0.0%
+214,Navy Recruiting Command Louisville,Navy Recruiting Command Louisville,Realign,(6),(217),0,0,(6),(217),0,(223),(165),(388),"728,101",-0.1%
+215,"Navy Reserve Center Lubbock, TX","Navy Reserve Center Lubbock, TX",Close,(7),0,0,0,(7),0,0,(7),(2),(9),"156,975",0.0%
+216,Army National Guard Reserve Center Lufkin,Army National Guard Reserve Center Lufkin,Close,(10),0,0,0,(10),0,0,(10),(5),(15),"45,773",0.0%
+217,Navy-Marine Corps Reserve Center Madison,Navy-Marine Corps Reserve Center Madison,Close,(23),(3),0,0,(23),(3),0,(26),(11),(37),"401,730",0.0%
+218,"Olson U.S. Army Reserve Center, Madison","Olson U.S. Army Reserve Center, Madison",Close,(113),0,0,0,(113),0,0,(113),(42),(155),"401,730",0.0%
+219,U.S. Army Reserve Center O'Connell,U.S. Army Reserve Center O'Connell,Close,(11),(1),0,0,(11),(1),0,(12),(4),(16),"401,730",0.0%
+220,Armed Forces Reserve Center Madison,Armed Forces Reserve Center Madison,Gain,0,0,40,8,40,8,0,48,21,69,"401,730",0.0%
+221,Dane County Airport,Dane County Airport,Gain,(4),0,22,37,18,37,0,55,35,90,"401,730",0.0%
+222,Fort Riley,Fort Riley,Gain,0,0,"2,415",440,"2,415",440,0,"2,855","1,818","4,673","72,434",6.5%
+223,Army National Guard Reserve Center Mansfield,Army National Guard Reserve Center Mansfield,Close,(59),(2),0,0,(59),(2),0,(61),(57),(118),"73,323",-0.2%
+224,Mansfield Lahm Municipal Airport Air Guard Station,Mansfield Lahm Municipal Airport Air Guard Station,Close,(63),(171),0,0,(63),(171),0,(234),(294),(528),"73,323",-0.7%
+225,Navy Reserve Center Marquette,Navy Reserve Center Marquette,Close,(7),0,0,0,(7),0,0,(7),(1),(8),"34,562",0.0%
+226,Army National Guard Reserve Center Marshall,Army National Guard Reserve Center Marshall,Close,(15),(1),0,0,(15),(1),0,(16),(8),(24),"29,682",-0.1%
+227,Naval Support Activity Crane,Naval Support Activity Crane,Realign,0,(672),0,0,0,(672),(11),(683),(308),(991),"8,525",-11.6%
+228,U.S. Army Reserve Center Maysville,U.S. Army Reserve Center Maysville,Close,(16),(2),0,0,(16),(2),0,(18),(10),(28),"16,643",-0.2%
+229,Navy Reserve Center Central Point,Navy Reserve Center Central Point,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"106,355",0.0%
+230,Memphis International Airport Air,Memphis International Airport Air,Gain,0,0,2,6,2,6,0,8,5,13,"758,153",0.0%
+231," 0 2 6 2 6 0 8 5 13 758,153 0.0% Guard Station Naval Support Activity Mid South", Guard Station Naval Support Activity Mid South,Gain,0,0,372,601,372,601,88,"1,061",668,"1,729","758,153",0.2%
+232,Key Field Air Guard Station,Key Field Air Guard Station,Realign,(33),(142),0,0,(33),(142),0,(175),(163),(338),"54,548",-0.6%
+233,Naval Air Station Meridian,Naval Air Station Meridian,Realign,(15),0,0,0,(15),0,(1),(16),(13),(29),"54,548",-0.1%
+234,Homestead Air Reserve Station,Homestead Air Reserve Station,Gain,0,(12),0,83,0,71,0,71,70,141,"1,293,315",0.0%
+235,Gen Mitchell International Airport ARS,Gen Mitchell International Airport ARS,Close,(44),(302),24,56,(20),(246),0,(266),(214),(480),"986,431",0.0%
+236,Fort Snelling,Fort Snelling,Realign,(130),(124),0,0,(130),(124),0,(254),(155),(409),"2,127,894",0.0%
+237,Armed Forces Reserve Center Mobile,Armed Forces Reserve Center Mobile,Close,(27),0,22,0,(5),0,0,(5),(2),(7),"213,966",0.0%
+238,Fort Ganey Army National Guard Reserve Center Mobile,Fort Ganey Army National Guard Reserve Center Mobile,Close,(13),0,0,0,(13),0,0,(13),(5),(18),"213,966",0.0%
+239,Wright U.S. Army Reserve Center,Wright U.S. Army Reserve Center,Close,(8),(1),0,0,(8),(1),0,(9),(4),(13),"213,966",0.0%
+240,Riverbank Army Ammunition Plant,Riverbank Army Ammunition Plant,Close,0,(4),0,0,0,(4),(85),(89),(17),(106),"217,388",0.0%
+241,Fort McCoy,Fort McCoy,Realign,(379),(82),97,133,(282),51,0,(231),(133),(364),"23,884",-1.5%
+242,BG William P. Screws U.S. Army Reserve Center Montgomery,BG William P. Screws U.S. Army Reserve Center Montgomery,Close,(15),(3),0,0,(15),(3),0,(18),(12),(30),"207,595",0.0%
+243,Navy Recruiting District Headquarters Montgomery,Navy Recruiting District Headquarters Montgomery,Close,(31),(5),0,0,(31),(5),(5),(41),(27),(68),"207,595",0.0%
+244,"The Adjutant General Bldg, AL","The Adjutant General Bldg, AL",Close,(85),0,0,0,(85),0,0,(85),(56),(141),"207,595",-0.1%
+245,"85) 0 0 0 (85) 0 0 (85) (56) (141) 207,595 -0.1% Army National Guard Montgomery Dannelly Field Air Guard Station", Army National Guard Montgomery Dannelly Field Air Guard Station,Gain,0,0,18,42,18,42,0,60,45,105,"207,595",0.1%
+246,Maxwell Air Force Base,Maxwell Air Force Base,Realign,(740),(511),0,0,(740),(511),0,"(1,251)",(894),"(2,145)","207,595",-1.0%
+247,Mountain Home Air Force Base,Mountain Home Air Force Base,Realign,"(1,235)",(54),697,23,(538),(31),0,(569),(329),(898),"14,441",-6.2%
+248,Armed Forces Reserve Center Muskogee,Armed Forces Reserve Center Muskogee,Close,(14),(2),0,0,(14),(2),0,(16),(9),(25),"40,416",-0.1%
+249,Leased Space - TN,Leased Space - TN,Close/Realign,0,(6),0,0,0,(6),0,(6),(4),(10),"919,365",0.0%
+250,Nashville International Airport Air Guard Station,Nashville International Airport Air Guard Station,Realign,(19),(172),0,0,(19),(172),0,(191),(137),(328),"919,365",0.0%
+251,Armed Forces Reserve Center,Armed Forces Reserve Center,Close,(24),(4),0,0,(24),(4),0,(28),(8),(36),"1,530,568",0.0%
+252,Marine Corps Air Station Cherry Point,Marine Corps Air Station Cherry Point,Realign,(16),(664),64,8,48,(656),(20),(628),(558),"(1,186)","66,366",-1.8%
+253,"SGT Libby U.S. Army Reserve Center, New Haven","SGT Libby U.S. Army Reserve Center, New Haven",Close,(14),(7),0,0,(14),(7),0,(21),(12),(33),"472,774",0.0%
+254,Naval Support Activity New Orleans,Naval Support Activity New Orleans,Close,"(1,997)",(652),0,0,"(1,997)",(652),(62),"(2,711)","(2,016)","(4,727)","763,801",-0.6%
+255,Leased Space - Slidell,Leased Space - Slidell,Close/Realign,(1),(102),0,0,(1),(102),(48),(151),(144),(295),"763,801",0.0%
+256,Naval Air Station New Orleans,Naval Air Station New Orleans,Gain,0,0,"1,407",446,"1,407",446,3,"1,856","1,372","3,228","763,801",0.4%
+257,Naval Air Station New Orleans Air Reserve Station,Naval Air Station New Orleans Air Reserve Station,Realign,(4),(308),45,76,41,(232),0,(191),(207),(398),"763,801",-0.1%
+258,Fort Totten / Pyle,Fort Totten / Pyle,Realign,(75),(74),0,0,(75),(74),0,(149),(72),(221),"6,226,027",0.0%
+259,Picatinny Arsenal,Picatinny Arsenal,Gain,0,0,5,688,5,688,0,693,566,"1,259","1,246,371",0.1%
+260,Submarine Base New London,Submarine Base New London,Close,"(7,096)",(952),0,0,"(7,096)",(952),(412),"(8,460)","(7,353)","(15,813)","168,620",-9.4%
+261,Naval Air Station Whidbey Island,Naval Air Station Whidbey Island,Gain,(34),0,0,173,(34),173,0,139,162,301,"35,843",0.8%
+262,Defense Finance and Accounting,Defense Finance and Accounting,Close,0,(50),0,0,0,(50),0,(50),(40),(90),"1,383,332",0.0%
+263," (50) 0 0 0 (50) 0 (50) (40) (90) 1,383,332 0.0% Service, Oakland Camp Parks (91st)"," Service, Oakland Camp Parks (91st)",Realign,(25),(18),0,0,(25),(18),0,(43),(26),(69),"1,383,332",0.0%
+264,Hill Air Force Base,Hill Air Force Base,Realign,(13),(447),291,24,278,(423),0,(145),(164),(309),"239,699",-0.1%
+265,Krowse U.S. Army Reserve Center Oklahoma City,Krowse U.S. Army Reserve Center Oklahoma City,Close,(78),(6),0,0,(78),(6),0,(84),(78),(162),"703,918",0.0%
+266,Oklahoma City (95th),Oklahoma City (95th),Close,(31),(22),0,0,(31),(22),0,(53),(55),(108),"703,918",0.0%
+267,Tinker Air Force Base,Tinker Air Force Base,Gain,(9),(197),9,552,0,355,0,355,450,805,"703,918",0.1%
+268,Will Rogers World Airport Air Guard Station,Will Rogers World Airport Air Guard Station,Realign,(19),(145),103,46,84,(99),0,(15),(49),(64),"703,918",0.0%
+269,Naval Recruiting District Headquarters Omaha,Naval Recruiting District Headquarters Omaha,Close,(19),(7),0,0,(19),(7),(6),(32),(28),(60),"538,121",0.0%
+270,Offutt Air Force Base,Offutt Air Force Base,Realign,0,(227),54,69,54,(158),0,(104),(130),(234),"538,121",0.0%
+271,Defense Finance and Accounting,Defense Finance and Accounting,Close,(9),(200),0,0,(9),(200),0,(209),(204),(413),"1,082,297",0.0%
+272,Channel Islands Air Guard Station,Channel Islands Air Guard Station,Gain,0,0,4,15,4,15,0,19,23,42,"420,712",0.0%
+273,Naval Base Ventura City,Naval Base Ventura City,Realign,(244),"(2,149)",5,854,(239),"(1,295)",0,"(1,534)","(1,905)","(3,439)","420,712",-0.8%
+274,Army National Guard Reserve Center Paducah,Army National Guard Reserve Center Paducah,Close,(31),0,0,0,(31),0,0,(31),(16),(47),"61,551",-0.1%
+275,Patrick Air Force Base,Patrick Air Force Base,Realign,(136),(59),0,0,(136),(59),0,(195),(165),(360),"247,994",-0.1%
+276,Naval Support Activity Panama City,Naval Support Activity Panama City,Realign,(12),(12),0,0,(12),(12),0,(24),(24),(48),"86,688",-0.1%
+277,Tyndall Air Force Base,Tyndall Air Force Base,Realign,(48),(19),11,0,(37),(19),0,(56),(57),(113),"86,688",-0.1%
+278,Kansas Army Ammunition Plant,Kansas Army Ammunition Plant,Close,0,(8),0,0,0,(8),(159),(167),(109),(276),"15,144",-1.8%
+279,Naval Station Pascagoula,Naval Station Pascagoula,Close,(844),(112),0,0,(844),(112),(7),(963),(798),"(1,761)","68,520",-2.6%
+280,Umatilla Army Depot,Umatilla Army Depot,Close,(127),(385),0,0,(127),(385),0,(512),(372),(884),"44,887",-2.0%
+281,Naval Air Station Pensacola,Naval Air Station Pensacola,Realign,(857),"(1,304)",555,124,(302),"(1,180)",(97),"(1,579)","(2,521)","(4,100)","210,512",-1.9%
+282,Greater Peoria Regio,Greater Peoria Regio,Gain,0,0,13,21,13,21,0,34,23,57,"217,455",0.0%
+283,Navy Marine Corps Reserve,Navy Marine Corps Reserve,Close,(7),0,0,0,(7),0,0,(7),(1),(8),"14,974",-0.1%
+284,Bristol,Bristol,Close,(9),(2),0,0,(9),(2),0,(11),(5),(16),"2,273,372",0.0%
+285,Engineering Field Activity,Engineering Field Activity,Close,(4),(188),0,0,(4),(188),0,(192),(155),(347),"2,273,372",0.0%
+286,"4) (188) 0 0 (4) (188) 0 (192) (155) (347) 2,273,372 0.0% Northeast Naval Air Station Willow Grove", Northeast Naval Air Station Willow Grove,Close,(865),(362),0,0,(865),(362),(5),"(1,232)",(698),"(1,930)","2,273,372",-0.1%
+287,Navy Crane Center Lester,Navy Crane Center Lester,Close,(1),(54),0,0,(1),(54),0,(55),(44),(99),"2,273,372",0.0%
+288,"North Penn U.S. Army Reserve Center, Norristown","North Penn U.S. Army Reserve Center, Norristown",Close,(22),(1),0,0,(22),(1),0,(23),(10),(33),"2,273,372",0.0%
+289,"W. Reese U.S. Army Reserve Center/OMS, Chester","W. Reese U.S. Army Reserve Center/OMS, Chester",Close,(9),(1),0,0,(9),(1),0,(10),(4),(14),"2,273,372",0.0%
+290,Naval Support Activity Philadelphia,Naval Support Activity Philadelphia,Gain,0,(10),0,301,0,291,0,291,237,528,"2,273,372",0.0%
+291,Human Resources Support Center Northeast,Human Resources Support Center Northeast,Realign,0,(174),0,0,0,(174),(9),(183),(148),(331),"2,273,372",0.0%
+292,Navy Philadelphia Business Center,Navy Philadelphia Business Center,Realign,0,(63),0,0,0,(63),0,(63),(51),(114),"2,273,372",0.0%
+293,"Air Force Research Lab, Mesa City","Air Force Research Lab, Mesa City",Close,(42),(46),0,0,(42),(46),0,(88),(82),(170),"1,971,119",0.0%
+294,Leased Space - AZ,Leased Space - AZ,Close/Realign,0,(1),0,0,0,(1),0,(1),(1),(2),"1,971,119",0.0%
+295,Phoenix Sky Harbor I,Phoenix Sky Harbor I,Gain,0,0,10,29,10,29,0,39,39,78,"1,971,119",0.0%
+296,Luke Air Force Base,Luke Air Force Base,Realign,(101),(177),0,0,(101),(177),0,(278),(273),(551),"1,971,119",0.0%
+297,Mississippi Army Ammunition Plant,Mississippi Army Ammunition Plant,Close,0,(4),0,0,0,(4),(50),(54),(35),(89),"16,286",-0.5%
+298,"Stone U.S. Army Reserve Center, Pine Bluff","Stone U.S. Army Reserve Center, Pine Bluff",Close,(30),(4),0,0,(30),(4),0,(34),(13),(47),"49,184",-0.1%
+299,Kelly Support Center,Kelly Support Center,Close,(174),(136),0,0,(174),(136),0,(310),(183),(493),"1,403,312",0.0%
+300,Pittsburgh International Airport Air Reserve Station,Pittsburgh International Airport Air Reserve Station,Close,(44),(278),0,0,(44),(278),0,(322),(258),(580),"1,403,312",0.0%
+301,Navy-Marine Corps Reserve Center Pittsburgh,Navy-Marine Corps Reserve Center Pittsburgh,Gain,0,0,7,0,7,0,0,7,2,9,"1,403,312",0.0%
+302,"Pitt U.S. Army Reserve Center, Corapolis","Pitt U.S. Army Reserve Center, Corapolis",Realign,(119),(101),0,0,(119),(101),0,(220),(132),(352),"1,403,312",0.0%
+303,Navy Reserve Center Pocatello,Navy Reserve Center Pocatello,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"47,266",0.0%
+304,Naval Shipyard Portsmouth,Naval Shipyard Portsmouth,Close,(201),"(4,032)",0,0,(201),"(4,032)",(277),"(4,510)","(4,656)","(9,166)","331,655",-2.8%
+305,Naval Air Station Brunswick,Naval Air Station Brunswick,Realign,"(2,317)",(61),0,0,"(2,317)",(61),(42),"(2,420)","(1,846)","(4,266)","331,655",-1.3%
+306,Vancover Barracks,Vancover Barracks,Close,(29),(16),0,0,(29),(16),0,(45),(27),(72),"1,232,839",0.0%
+307,Portland International Airport Air Guard Station,Portland International Airport Air Guard Station,Realign,(112),(452),0,0,(112),(452),0,(564),(453),"(1,017)","1,232,839",-0.1%
+308,"Carpenter U.S. Army Reserve Center,Poughkeepie","Carpenter U.S. Army Reserve Center,Poughkeepie",Close,(8),(1),0,0,(8),(1),0,(9),(5),(14),"312,628",0.0%
+309,United States Military Academy,United States Military Academy,Gain,0,0,226,38,226,38,0,264,158,422,"312,628",0.1%
+310,Harwood U.S. Army Reserve,Harwood U.S. Army Reserve,Close,(20),(4),0,0,(20),(4),0,(24),(30),(54),"864,734",0.0%
+311,"20) (4) 0 0 (20) (4) 0 (24) (30) (54) 864,734 0.0% Center, Providence USARC Bristol"," Center, Providence USARC Bristol",Close,(24),0,0,0,(24),0,0,(24),(28),(52),"864,734",0.0%
+312,Naval Station Newport,Naval Station Newport,Gain,(122),(225),647,309,525,84,(76),533,654,"1,187","864,734",0.1%
+313,Quonset State Airport Air Guard Station,Quonset State Airport Air Guard Station,Gain,0,0,17,29,17,29,0,46,67,113,"864,734",0.0%
+314,Ellsworth Air Force Base,Ellsworth Air Force Base,Close,"(3,315)",(438),0,0,"(3,315)",(438),(99),"(3,852)","(2,915)","(6,767)","79,970",-8.5%
+315,Navy-Marine Corps Reserve Center Reading,Navy-Marine Corps Reserve Center Reading,Close,(18),0,0,0,(18),0,0,(18),(6),(24),"213,550",0.0%
+316,Hawthorne Army Depot,Hawthorne Army Depot,Close,(74),(45),0,0,(74),(45),(80),(199),(126),(325),"243,270",-0.1%
+317,Reno-Tahoe International Airport Air Guard Station,Reno-Tahoe International Airport Air Guard Station,Realign,(23),(124),0,0,(23),(124),0,(147),(115),(262),"243,270",-0.1%
+318,Leased Space - VA,Leased Space - VA,Close/Realign,0,(215),0,0,0,(215),0,(215),(166),(381),"715,302",-0.1%
+319,Defense Supply Center Richmond,Defense Supply Center Richmond,Gain,0,(77),0,83,0,6,0,6,4,10,"715,302",0.0%
+320,Fort Lee,Fort Lee,Gain,(392),(2),"6,531","1,151","6,139","1,149",56,"7,344","4,425","11,769","715,302",1.6%
+321,Richmond International Airport Air Guard Station,Richmond International Airport Air Guard Station,Realign,(25),(101),0,0,(25),(101),0,(126),(92),(218),"715,302",0.0%
+322,Defense Finance and Accounting,Defense Finance and Accounting,Close,0,(120),0,0,0,(120),0,(120),(121),(241),"1,479,524",0.0%
+323," (120) 0 0 0 (120) 0 (120) (121) (241) 1,479,524 0.0% Service, San Bernardino Naval Support Activity Corona"," Service, San Bernardino Naval Support Activity Corona",Close,(6),(886),0,0,(6),(886),0,(892),(904),"(1,796)","1,479,524",-0.1%
+324,March Air Reserve Base,March Air Reserve Base,Realign,(71),(44),0,4,(71),(40),0,(111),(90),(201),"1,479,524",0.0%
+325,Marine Corps Logistics Base Barstow,Marine Corps Logistics Base Barstow,Realign,(140),(330),0,0,(140),(330),51,(419),(396),(815),"1,479,524",-0.1%
+326,Doble U.S. Army Reserve Center Portsmouth,Doble U.S. Army Reserve Center Portsmouth,Close,(39),(5),0,0,(39),(5),0,(44),(29),(73),"238,671",0.0%
+327,Armed Forces Reserve Center Pease Air Force Base,Armed Forces Reserve Center Pease Air Force Base,Gain,0,0,20,28,20,28,0,48,40,88,"238,671",0.0%
+328,Inspector/Instructor Rome GA,Inspector/Instructor Rome GA,Close,(9),0,0,0,(9),0,0,(9),(3),(12),"50,944",0.0%
+329,"Defense Finance and Accounting Service, Seaside","Defense Finance and Accounting Service, Seaside",Close,(10),(51),0,0,(10),(51),0,(61),(61),(122),"235,299",-0.1%
+330,Fort Hunter Liggett,Fort Hunter Liggett,Gain,0,0,25,18,25,18,0,43,41,84,"235,299",0.0%
+331,Deseret Chemical Depot,Deseret Chemical Depot,Close,(186),(62),0,0,(186),(62),0,(248),(143),(391),"701,532",-0.1%
+332,Fort Douglas,Fort Douglas,Realign,(15),(38),0,0,(15),(38),0,(53),(41),(94),"701,532",0.0%
+333,Army National Guard Reserve,Army National Guard Reserve,Close,(106),0,0,0,(106),0,0,(106),(89),(195),"1,009,217",0.0%
+334,"106) 0 0 0 (106) 0 0 (106) (89) (195) 1,009,217 0.0% Center New Braunfels Brooks City Base", Center New Braunfels Brooks City Base,Close,"(1,297)","(1,268)",0,0,"(1,297)","(1,268)",(358),"(2,923)","(2,801)","(5,724)","1,009,217",-0.6%
+335,"Defense Finance and Accounting Service, San Antonio","Defense Finance and Accounting Service, San Antonio",Close,(32),(303),0,0,(32),(303),0,(335),(367),(702),"1,009,217",-0.1%
+336,Leased Space - TX,Leased Space - TX,Close/Realign,(78),(147),0,0,(78),(147),0,(225),(230),(455),"1,009,217",0.0%
+337,Fort Sam Houston,Fort Sam Houston,Gain,(117),0,"7,765","1,624","7,648","1,624",92,"9,364","8,324","17,688","1,009,217",1.8%
+338,Randolph Air Force Base,Randolph Air Force Base,Gain,(576),(174),164,705,(412),531,63,182,300,482,"1,009,217",0.0%
+339,Lackland Air Force Base,Lackland Air Force Base,Realign,"(2,489)","(1,223)",235,453,"(2,254)",(770),(116),"(3,140)","(2,755)","(5,895)","1,009,217",-0.6%
+340,"Defense Finance and Accounting Service, San Diego","Defense Finance and Accounting Service, San Diego",Close,(3),(237),0,0,(3),(237),0,(240),(256),(496),"1,806,321",0.0%
+341,Marine Corps Base Miramar,Marine Corps Base Miramar,Gain,(46),(3),87,34,41,31,0,72,70,142,"1,806,321",0.0%
+342,Naval Base Point Loma,Naval Base Point Loma,Gain,(12),(341),312,350,300,9,0,309,279,588,"1,806,321",0.0%
+343,Naval Station San Diego,Naval Station San Diego,Gain,(1),(2),"1,085",86,"1,084",84,2,"1,170","1,066","2,236","1,806,321",0.1%
+344,Human Resources Support Center Southwest,Human Resources Support Center Southwest,Realign,0,(164),0,0,0,(164),0,(164),(175),(339),"1,806,321",0.0%
+345,Marine Corps Base Camp Pendleton,Marine Corps Base Camp Pendleton,Realign,(145),(6),0,7,(145),1,0,(144),(129),(273),"1,806,321",0.0%
+346,Naval Base Coronado,Naval Base Coronado,Realign,(71),(587),0,198,(71),(389),0,(460),(481),(941),"1,806,321",-0.1%
+347,Naval Medical Center San Diego,Naval Medical Center San Diego,Realign,"(1,596)",(33),0,0,"(1,596)",(33),(1),"(1,630)","(1,470)","(3,100)","1,806,321",-0.2%
+348,Naval Weapons Station Fallbrook,Naval Weapons Station Fallbrook,Realign,0,(118),0,0,0,(118),0,(118),(126),(244),"1,806,321",0.0%
+349,Onizuka Air Force Station,Onizuka Air Force Station,Close,(107),(171),0,0,(107),(171),0,(278),(114),(392),"1,187,969",0.0%
+350,AFRC Moffett Field,AFRC Moffett Field,Gain,0,0,87,166,87,166,0,253,106,359,"1,187,969",0.0%
+351,Army National Guard Reserve,Army National Guard Reserve,Close,(26),0,0,0,(26),0,0,(26),(18),(44),"850,261",0.0%
+352,Lavergne U.S. Army Reserve Center Bayamon,Lavergne U.S. Army Reserve Center Bayamon,Close,(25),(1),0,0,(25),(1),0,(26),(18),(44),"850,261",0.0%
+353,"Camp Euripides Rubio, Puerto Nuevo","Camp Euripides Rubio, Puerto Nuevo",Realign,(43),0,0,0,(43),0,0,(43),(29),(72),"850,261",0.0%
+354,Fort Buchanan,Fort Buchanan,Realign,(9),(47),0,0,(9),(47),0,(56),(54),(110),"850,261",0.0%
+355,Naval Weapons Station Seal Beach Det Concord,Naval Weapons Station Seal Beach Det Concord,Close,0,(71),0,0,0,(71),0,(71),(57),(128),"1,901,499",0.0%
+356,Los Alamitos (63rd),Los Alamitos (63rd),Realign,(92),(78),0,0,(92),(78),0,(170),(99),(269),"1,901,499",0.0%
+357,Vandenburg Air Force Base,Vandenburg Air Force Base,Gain,0,0,44,101,44,101,0,145,114,259,"254,600",0.1%
+358,Savannah International Airport Air Guard Station,Savannah International Airport Air Guard Station,Gain,0,0,17,21,17,21,0,38,38,76,"174,403",0.0%
+359,Serrenti U.S. Army Reserve,Serrenti U.S. Army Reserve,Close,(47),(8),0,0,(47),(8),0,(55),(21),(76),"306,854",0.0%
+360,"47) (8) 0 0 (47) (8) 0 (55) (21) (76) 306,854 0.0% Center, Scranton Tobyhanna Army Depot"," Center, Scranton Tobyhanna Army Depot",Gain,(1),(82),3,355,2,273,0,275,192,467,"306,854",0.2%
+361,Army National Guard Reserve Center Everett,Army National Guard Reserve Center Everett,Close,(57),0,0,0,(57),0,0,(57),(32),(89),"1,690,448",0.0%
+362,U.S. Army Reserve Center Fort Lawton,U.S. Army Reserve Center Fort Lawton,Close,(53),(54),0,0,(53),(54),0,(107),(76),(183),"1,690,448",0.0%
+363,Barksdale Air Force Base,Barksdale Air Force Base,Gain,0,0,5,60,5,60,0,65,70,135,"211,384",0.1%
+364,Fort Huachuca,Fort Huachuca,Realign,0,(212),0,44,0,(168),1,(167),(125),(292),"51,749",-0.6%
+365,Navy Reserve Center Sioux City,Navy Reserve Center Sioux City,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"93,206",0.0%
+366,Sioux Gateway Airport Air Guard,Sioux Gateway Airport Air Guard,Gain,0,0,33,170,33,170,0,203,155,358,"93,206",0.4%
+367,Joe Foss Field Air Guard Station,Joe Foss Field Air Guard Station,Gain,(4),0,32,27,28,27,0,55,35,90,"149,410",0.1%
+368,1LT Richard H. Walker U.S. Army,1LT Richard H. Walker U.S. Army,Close,(38),0,0,0,(38),0,0,(38),(32),(70),"249,887",0.0%
+369,"38) 0 0 0 (38) 0 0 (38) (32) (70) 249,887 0.0% Reserve Center Fairchild Air Force Base", Reserve Center Fairchild Air Force Base,Realign,(26),(172),0,0,(26),(172),0,(198),(215),(413),"249,887",-0.2%
+370,Capital Airport Air Guard Station,Capital Airport Air Guard Station,Realign,(52),(133),22,0,(30),(133),0,(163),(105),(268),"139,247",-0.2%
+371,"Westover U.S. Army Reserve Center, Cicopee","Westover U.S. Army Reserve Center, Cicopee",Close,(13),0,0,0,(13),0,0,(13),(5),(18),"374,117",0.0%
+372,Barnes Municipal Airport Air Guard Station,Barnes Municipal Airport Air Guard Station,Gain,0,(5),23,89,23,84,0,107,86,193,"374,117",0.1%
+373,Westover Air Force Base,Westover Air Force Base,Gain,0,0,69,11,69,11,0,80,41,121,"374,117",0.0%
+374,Springfield-Beckley Municipal Airport Air Guard Station,Springfield-Beckley Municipal Airport Air Guard Station,Realign,(66),(225),0,0,(66),(225),0,(291),(149),(440),"67,753",-0.6%
+375,Rosecrans Memorial Airport Air Guard Station,Rosecrans Memorial Airport Air Guard Station,Gain,0,0,8,27,8,27,0,35,23,58,"68,849",0.1%
+376,Army National Guard Reserve,Army National Guard Reserve,Close,(67),0,0,0,(67),0,0,(67),(54),(121),"1,668,793",0.0%
+377,"Defense Finance and Accounting Service, St. Louis","Defense Finance and Accounting Service, St. Louis",Close,(2),(291),0,0,(2),(291),0,(293),(318),(611),"1,668,793",0.0%
+378,Leased Space - MO,Leased Space - MO,Close/Realign,(709),"(1,234)",0,0,(709),"(1,234)",(150),"(2,093)","(2,078)","(4,171)","1,668,793",-0.2%
+379,Scott Air Force Base,Scott Air Force Base,Gain,(252),0,131,832,(121),832,86,797,900,"1,697","1,668,793",0.1%
+380,Lambert International Airport- St Louis,Lambert International Airport- St Louis,Realign,(34),(215),0,0,(34),(215),0,(249),(261),(510),"1,668,793",0.0%
+381,Submarine Base Kings Bay,Submarine Base Kings Bay,Gain,0,0,"3,245",102,"3,245",102,20,"3,367","1,667","5,034","23,025",21.9%
+382,Bethesda/Chevy Chase,Bethesda/Chevy Chase,Realign,(5),(2),0,0,(5),(2),0,(7),(4),(11),"1,628",-0.7%
+383,Defense Distribution Depot San Joaquin,Defense Distribution Depot San Joaquin,Realign,0,(31),0,0,0,(31),0,(31),(20),(51),"269,709",0.0%
+384,Shaw Air Force Base,Shaw Air Force Base,Gain,(74),(1),816,76,742,75,0,817,604,"1,421","54,168",2.6%
+385,Navy-Marine Corps Reserve,Navy-Marine Corps Reserve,Close,(20),0,0,0,(20),0,0,(20),(15),(35),"339,431",0.0%
+386,"20) 0 0 0 (20) 0 0 (20) (15) (35) 339,431 0.0% Center Tacoma Fort Lewis", Center Tacoma Fort Lewis,Gain,(2),(1),187,46,185,45,0,230,187,417,"339,431",0.1%
+387,McChord Air Force Base,McChord Air Force Base,Realign,(460),(143),36,7,(424),(136),(7),(567),(469),"(1,036)","339,431",-0.3%
+388,Navy Reserve Center ST Petersburg,Navy Reserve Center ST Petersburg,Close,(12),0,0,0,(12),0,0,(12),(10),(22),"1,485,074",0.0%
+389,MacDill Air Force Base,MacDill Air Force Base,Gain,(292),0,162,231,(130),231,0,101,152,253,"1,485,074",0.0%
+390,Newport Chemical Depot,Newport Chemical Depot,Close,(210),(81),0,0,(210),(81),(280),(571),(267),(838),"89,765",-0.9%
+391,Hulman Regional Airport Air Guard Station,Hulman Regional Airport Air Guard Station,Realign,(12),(124),0,0,(12),(124),0,(136),(95),(231),"89,765",-0.3%
+392,Lone Star Army Ammunition Plant,Lone Star Army Ammunition Plant,Close,(2),(18),0,0,(2),(18),(129),(149),(80),(229),"67,895",-0.3%
+393,Red River Army Depot,Red River Army Depot,Close,(9),"(2,491)",0,0,(9),"(2,491)",0,"(2,500)","(1,676)","(4,176)","67,895",-6.2%
+394,Toledo Express Airport Air Guard Station,Toledo Express Airport Air Guard Station,Gain,0,0,14,112,14,112,0,126,90,216,"403,161",0.1%
+395,Forbes Field Air Guard Station,Forbes Field Air Guard Station,Gain,0,0,53,194,53,194,0,247,169,416,"144,675",0.3%
+396,Inspector/Instructor Center West,Inspector/Instructor Center West,Close,(11),(1),0,0,(11),(1),0,(12),(4),(16),"249,721",0.0%
+397,Anderson U.S. Army Reserve Center Troy,Anderson U.S. Army Reserve Center Troy,Close,(15),0,0,0,(15),0,0,(15),(8),(23),"15,306",-0.2%
+398,"Allen Hall Armed Forces Reserve Center, Tucson","Allen Hall Armed Forces Reserve Center, Tucson",Close,(60),0,0,0,(60),0,0,(60),(52),(112),"448,946",0.0%
+399,Armed Forces Reserve Center Broken Arrow,Armed Forces Reserve Center Broken Arrow,Close,(26),0,32,0,6,0,0,6,2,8,"533,659",0.0%
+400,Navy-Marine Corps Reserve Center Tulsa,Navy-Marine Corps Reserve Center Tulsa,Close,(32),0,0,0,(32),0,0,(32),(11),(43),"533,659",0.0%
+401,Tulsa International Airport Air Guard Station,Tulsa International Airport Air Guard Station,Gain,0,0,22,81,22,81,0,103,83,186,"533,659",0.0%
+402,Navy Reserve Center Tuscaloosa AL,Navy Reserve Center Tuscaloosa AL,Close,(7),0,0,0,(7),0,0,(7),(2),(9),"104,345",0.0%
+403,Abbott U.S. Army Reserve Center Tuskegee,Abbott U.S. Army Reserve Center Tuskegee,Close,(2),(1),0,0,(2),(1),0,(3),(1),(4),"8,256",0.0%
+404,Defense Finance and Accounting,Defense Finance and Accounting,Close,0,(290),0,0,0,(290),0,(290),(274),(564),"158,421",-0.4%
+405," (290) 0 0 0 (290) 0 (290) (274) (564) 158,421 -0.4% Service, Rome Rome Laboratory"," Service, Rome Rome Laboratory",Realign,(13),(124),0,0,(13),(124),0,(137),(122),(259),"158,421",-0.2%
+406,Moody Air Force Base,Moody Air Force Base,Gain,(604),(145),"1,274",50,670,(95),0,575,416,991,"65,992",1.5%
+407,U.S. Army Reserve Center Vicksburg,U.S. Army Reserve Center Vicksburg,Close,(26),(2),0,0,(26),(2),0,(28),(15),(43),"29,916",-0.1%
+408,Fort Monroe,Fort Monroe,Close,"(1,393)","(1,948)",0,0,"(1,393)","(1,948)",(223),"(3,564)","(4,418)","(7,982)","978,888",-0.8%
+409,Langley Air Force Base,Langley Air Force Base,Gain,(53),(46),780,68,727,22,0,749,796,"1,545","978,888",0.2%
+410,Naval Amphibious Base Little Creek,Naval Amphibious Base Little Creek,Gain,0,0,10,27,10,27,0,37,48,85,"978,888",0.0%
+411,Naval Shipyard Norfolk,Naval Shipyard Norfolk,Gain,0,0,177,"1,774",177,"1,774",85,"2,036","2,744","4,780","978,888",0.5%
+412,Naval Station Norfolk,Naval Station Norfolk,Gain,(373),"(1,085)","3,820",356,"3,447",(729),89,"2,807","2,716","5,523","978,888",0.6%
+413,Naval Support Activity Norfolk,Naval Support Activity Norfolk,Gain,(6),0,573,205,567,205,16,788,899,"1,687","978,888",0.2%
+414,Fort Eustis,Fort Eustis,Realign,"(3,863)",(852),962,"1,432","(2,901)",580,169,"(2,152)","(2,066)","(4,218)","978,888",-0.4%
+415,Naval Air Station Oceana,Naval Air Station Oceana,Realign,(110),(3),0,53,(110),50,0,(60),(46),(106),"978,888",0.0%
+416,Naval Medical Center Portsmouth,Naval Medical Center Portsmouth,Realign,(463),(25),28,0,(435),(25),(1),(461),(494),(955),"978,888",-0.1%
+417,Naval Weapons Station Yorktown,Naval Weapons Station Yorktown,Realign,0,(179),0,0,0,(179),0,(179),(248),(427),"978,888",0.0%
+418,Robins Air Force Base,Robins Air Force Base,Gain,(484),(225),453,224,(31),(1),781,749,445,"1,194","65,130",1.8%
+419,Selfridge Army Activity,Selfridge Army Activity,Close,(126),(174),0,0,(126),(174),0,(300),(180),(480),"1,505,252",0.0%
+420,Selfridge Air National Guard Base,Selfridge Air National Guard Base,Gain,(3),(76),72,167,69,91,(76),84,51,135,"1,505,252",0.0%
+421,Whiteman Air Force Base,Whiteman Air Force Base,Gain,0,0,3,58,3,58,0,61,49,110,"28,670",0.4%
+422,Navy Reserve Center Adelphi,Navy Reserve Center Adelphi,Close,(17),0,0,0,(17),0,0,(17),(10),(27),"2,771,791",0.0%
+423,Leased Space - DC,Leased Space - DC,Close/Realign,(103),(68),0,79,(103),11,0,(92),(56),(148),"2,771,791",0.0%
+424,Leased Space - VA,Leased Space - VA,Close/Realign,"(6,199)","(15,539)",0,0,"(6,199)","(15,539)",(972),"(22,710)","(16,291)","(39,001)","2,771,791",-1.4%
+425,Andrews Air Force Base,Andrews Air Force Base,Gain,(416),(189),607,489,191,300,(91),400,286,686,"2,771,791",0.0%
+426,Fort Belvoir,Fort Belvoir,Gain,(466),"(2,281)","4,537","8,010","4,071","5,729","2,058","11,858","8,250","20,108","2,771,791",0.7%
+427,"Headquarters Battalion,","Headquarters Battalion,",Gain,(52),(22),453,206,401,184,81,666,443,"1,109","2,771,791",0.0%
+428,"52) (22) 453 206 401 184 81 666 443 1,109 2,771,791 0.0% Headquarters Marine Corps, Marine Corps Base Quantico"," Headquarters Marine Corps, Marine Corps Base Quantico",Gain,(50),0,496,"1,357",446,"1,357","1,210","3,013","2,108","5,121","2,771,791",0.2%
+429,Arlington Service Center,Arlington Service Center,Realign,(224),(516),435,406,211,(110),(383),(282),(205),(487),"2,771,791",0.0%
+430,Bolling Air Force Base,Bolling Air Force Base,Realign,(96),(242),0,0,(96),(242),(61),(399),(283),(682),"2,771,791",0.0%
+431,Center for Naval Research,Center for Naval Research,Realign,(25),(313),0,0,(25),(313),0,(338),(252),(590),"2,771,791",0.0%
+432,"Defense Finance and Accounting Service, Arlington","Defense Finance and Accounting Service, Arlington",Realign,(7),(401),0,0,(7),(401),0,(408),(308),(716),"2,771,791",0.0%
+433,Naval Air Facility Washington,Naval Air Facility Washington,Realign,(9),(9),0,0,(9),(9),0,(18),(12),(30),"2,771,791",0.0%
+434,Naval District Washington,Naval District Washington,Realign,(108),(845),28,522,(80),(323),40,(363),(268),(631),"2,771,791",0.0%
+435,Naval Surface Warfare Center Indian Head,Naval Surface Warfare Center Indian Head,Realign,0,(137),0,42,0,(95),0,(95),(71),(166),"2,771,791",0.0%
+436,Potomac Annex,Potomac Annex,Realign,(4),(5),0,0,(4),(5),(3),(12),(8),(20),"2,771,791",0.0%
+437,U.S. Marine Corps Direct Reporting Program Manager,U.S. Marine Corps Direct Reporting Program Manager,Realign,0,(32),0,0,0,(32),0,(32),(24),(56),"2,771,791",0.0%
+438,Walter Reed Army Medical Center,Walter Reed Army Medical Center,Realign,"(2,679)","(2,388)",28,31,"(2,651)","(2,357)",(622),"(5,630)","(3,856)","(9,486)","2,771,791",-0.3%
+439,Navy Reserve Center Watertown,Navy Reserve Center Watertown,Close,(9),0,0,0,(9),0,0,(9),(5),(14),"62,390",0.0%
+440,Navy-Marine Corps Reserve,Navy-Marine Corps Reserve,Close,(16),0,0,0,(16),0,0,(16),(5),(21),"80,664",0.0%
+441,Sheppard Air Force Base,Sheppard Air Force Base,Realign,"(2,519)",(158),51,2,"(2,468)",(156),0,"(2,624)","(1,744)","(4,368)","93,033",-4.7%
+442,McConnell Air Force Base,McConnell Air Force Base,Gain,(27),(183),704,28,677,(155),0,522,308,830,"364,878",0.2%
+443,U.S. Army Reserve Center Wichita,U.S. Army Reserve Center Wichita,Realign,(22),(56),0,0,(22),(56),0,(78),(76),(154),"364,878",0.0%
+444,U.S. Army Reserve Center Williamsport,U.S. Army Reserve Center Williamsport,Close,(25),(4),0,0,(25),(4),0,(29),(16),(45),"67,466",-0.1%
+445,"Kirkwood U.S. Army Reserve Center, Newark","Kirkwood U.S. Army Reserve Center, Newark",Close,(7),(2),0,0,(7),(2),0,(9),(4),(13),"405,766",0.0%
+446,New Castle County Airport Air Guard Station,New Castle County Airport Air Guard Station,Realign,(47),(101),0,0,(47),(101),0,(148),(101),(249),"405,766",-0.1%
+447,Youngstown-Warren Regional Airport,Youngstown-Warren Regional Airport,Gain,0,0,0,8,0,8,0,8,7,15,"307,480",0.0%
+448,Beale Air Force Base,Beale Air Force Base,Realign,(8),(171),0,0,(8),(171),0,(179),(132),(311),"68,256",-0.5%
+449,Marine Corps Air Station Yuma,Marine Corps Air Station Yuma,Gain,0,0,0,5,0,5,0,5,4,9,"76,606",0.0%

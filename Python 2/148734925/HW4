@@ -1,0 +1,122 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 11 10:51:39 2022
+
+@author: riddhi
+"""
+
+from shiny import App, render, ui
+import os 
+import pandas as pd
+import matplotlib.pyplot as plt
+import geopandas
+
+
+chicago_line_df = geopandas.read_file(r'/Users/riddhi/Documents/GitHub/homework-4-riddhi-ka/CTA_RailLines/CTA_RailLines.shp')
+chicago_district_df = geopandas.read_file(r'/Users/riddhi/Documents/GitHub/homework-4-riddhi-ka/PoliceDistrict/PoliceDistrict.shp')
+
+chicago_line_df['LINES'].unique()
+
+def get_col(l):
+ if 'Blue' in l:
+        return 'b'
+ elif 'Red' in l:
+        return 'r'
+ elif 'Purple' in l:
+        return 'purple'
+ elif 'Brown' in l:
+        return 'brown'
+ elif 'Yellow' in l:
+        return 'yellow'
+ elif 'Green' in l:
+        return 'green'
+ elif 'Pink' in l:
+        return 'pink'
+ elif 'Orange' in l:
+        return 'orange'
+color_dict = {l:get_col(l) for l in chicago_line_df['LINES'].unique()}
+color_dict
+import os
+base_path = r'/Users/riddhi/Documents/GitHub/homework-4-riddhi-ka'
+path = os.path.join(base_path,'Average_Gas_Usage_per_Square_Foot_by_Community_Area_2010.csv' )
+gas_usage_df = pd.read_csv(path)
+gas_usage_df.columns
+Average_gas_usage__df = chicago_district_df.join(gas_usage_df, how = 'inner' )
+path_1 = os.path.join(base_path,'Chicago_Energy_Benchmarking_-_2014_Data_Reported_in_2015-2.csv' )
+GHG_df = pd.read_csv(path_1)
+ghg_intensity_df = chicago_district_df.join(GHG_df, how ='inner')
+ghg_intensity_df.columns
+
+Indicator = ['GHG Intensity per Community Area', 'Gas Usage per Community Area']
+
+app_ui = ui.page_fluid(
+    ui.h2("Chicago Community Area Map for GHG Intensity and Energy Usage "),
+    
+    ui.input_switch(id = 'Button',
+                     label = 'Show L lines ', value =  True),
+    ui.input_select(id = 'Indicator',
+                    label = 'Select the type of indicator to plot', choices = list(Indicator)),
+    ui.output_plot("chicago_map"),
+)
+
+def server(input, output, session):
+    @output
+    @render.plot
+    
+    def chicago_map():
+          
+     if (input.Button()) & (input.Indicator() == 'GHG Intensity per Community Area') :
+            size = 100
+            
+            fig, ax = plt.subplots(figsize=(8,8))
+            
+            chicago_district_df.plot(ax=ax, color='white', alpha=0.5, edgecolor='black', label='District')
+            
+            ax.set_title('Chicago Districts')
+            
+            ghg_intensity_df.plot(ax=ax, column='GHG Intensity (kg CO2e/sq ft)', legend=True)
+            
+            for line in chicago_line_df['LINES'].unique():
+                c = color_dict[line]
+                chicago_line_df[chicago_line_df['LINES'] == line].plot(ax=ax, color=c, alpha=1, linewidth=1)
+            ax.axis('off')
+            
+            return ax
+        
+     if (input.Button()) & (input.Indicator() == 'Gas Usage per Community Area'):
+            size = 100
+            fig, ax = plt.subplots(figsize=(8,8))
+
+            chicago_district_df.plot(ax=ax, color='white', alpha=0.5, edgecolor='black', label='District')
+            ax = Average_gas_usage__df.plot(ax=ax, column='THERMS TOTAL SQFT', legend=True)
+            ax.set_title('Chicago Districts')
+            for line in chicago_line_df['LINES'].unique():
+                c = color_dict[line]
+                chicago_line_df[chicago_line_df['LINES'] == line].plot(ax=ax, color=c, alpha=1, linewidth=1)
+            ax.axis('off')
+            return ax
+        
+        
+     if (input.Button() == False) & (input.Indicator() == 'GHG Intensity per Community Area'):
+            size = 100
+            fig, ax = plt.subplots(figsize=(8,8))
+
+            chicago_district_df.plot(ax=ax, color='white', alpha=0.5, edgecolor='black', label='District')
+            ghg_intensity_df.plot(ax=ax, column='GHG Intensity (kg CO2e/sq ft)', legend=True)
+            ax.set_title('Chicago Districts');
+            ax.axis('off')
+            return ax
+        
+     if (input.Button() == False) & (input.Indicator() == 'Gas Usage per Community Area'):
+            size = 100
+            fig, ax = plt.subplots(figsize=(8,8))
+
+            chicago_district_df.plot(ax=ax, color='white', alpha=0.5, edgecolor='black', label='District')
+            ax = Average_gas_usage__df.plot(ax=ax, column='THERMS TOTAL SQFT', legend=True)
+            ax.set_title('Chicago Districts');
+            ax.axis('off')
+            return ax
+
+    
+app = App(app_ui, server)
